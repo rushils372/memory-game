@@ -8,6 +8,6 @@ body {
   margin: 0;
   font-size: 1.5em;
   text-align: center;
-  background: #1b1523;
+  background: radial-gradient(circle, #002f53, #003964, #004477, #004f89, #005a9c, #0a64aa, #136fb9, #1a7ac8, #2787d5, #3295e3, #3da2f0, #48b0fd);
   color: #fff;
 }

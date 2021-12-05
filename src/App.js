@@ -74,7 +74,7 @@ function App() {
 
   return (
     <div className="App">
-      <h1>Magic Match</h1>
+      <h1 className="tracking-in-expand">Gadget Match</h1>
       <button onClick={shuffleCards}>New Game</button>
 
       <div className="card-grid">
